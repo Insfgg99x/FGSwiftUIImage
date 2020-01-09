@@ -40,7 +40,7 @@ pod 'FGSwiftUIImage'
 
 - swift pm
 
-Xcode -> File -> Swift Packages -> Add Package Dependency, and type in:
+    Xcode -> File -> Swift Packages -> Add Package Dependency, and type in:
 ```
 https://github.com/Insfgg99x/FGSwiftUIImage.git
 ```
